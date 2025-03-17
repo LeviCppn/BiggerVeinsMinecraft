@@ -1,0 +1,8 @@
+name: BiggerVeins
+main: me.LeviCppn.BiggerVeins
+version: 1.0
+api-version: 1.21
+description: Makes Veins Bigger
+author: LeviCppn
+commands: {}
+permissions: {}
